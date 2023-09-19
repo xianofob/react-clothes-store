@@ -1,0 +1,33 @@
+[
+    {
+      "id": 11,
+      "name": "Black Hoodie",
+      "price": 10.99,
+      "imgUrl": "imgs/images (13).jpg"
+    },
+    {
+      "id": 12,
+      "name": "White Hoodie",
+      "price": 10.99,
+      "imgUrl": "/imgs/images (14).jpg"
+    },
+    {
+      "id": 13,
+      "name": "2x Hoodies Promotion",
+      "price": 14.99,
+      "imgUrl": "/imgs/images (15).jpg"
+    },
+    {
+      "id": 14,
+      "name": "Blue Hodie",
+      "price": 10.99,
+      "imgUrl": "/imgs/images (11).jpg"
+    },
+    {
+        "id": 15,
+        "name": "Green Hoodie",
+        "price": 10.99,
+        "imgUrl": "/imgs/images (12).jpg"
+      }
+  ]
+  

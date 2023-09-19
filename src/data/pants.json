@@ -1,0 +1,39 @@
+[
+    {
+      "id": 5,
+      "name": "Sport Black Pants",
+      "price": 10.99,
+      "imgUrl": "imgs/images (21).jpg"
+    },
+    {
+      "id": 6,
+      "name": "Sport Styled Pants",
+      "price": 10.99,
+      "imgUrl": "/imgs/images (23).jpg"
+    },
+    {
+      "id": 7,
+      "name": "Sport Simple Pants",
+      "price": 10.99,
+      "imgUrl": "/imgs/images (25).jpg"
+    },
+    {
+      "id": 8,
+      "name": "Grey Jeans",
+      "price": 10.99,
+      "imgUrl": "/imgs/images (18).jpg"
+    },
+    {
+        "id": 9,
+        "name": "Blue Jeans",
+        "price": 10.99,
+        "imgUrl": "/imgs/images (16).jpg"
+      },
+      {
+        "id": 10,
+        "name": "Black Jeans",
+        "price": 10.99,
+        "imgUrl": "/imgs/images (19).jpg"
+      }
+  ]
+  

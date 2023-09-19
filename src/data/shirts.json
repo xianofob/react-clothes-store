@@ -1,0 +1,45 @@
+[
+    {
+      "id": 16,
+      "name": "Black T-hirt",
+      "price": 5.99,
+      "imgUrl": "imgs/black shirt.jpg"
+    },
+    {
+      "id": 17,
+      "name": "White T-shirt",
+      "price": 5.99,
+      "imgUrl": "/imgs/images (5).jpg"
+    },
+    {
+      "id": 18,
+      "name": "Red T-shirt",
+      "price": 5.99,
+      "imgUrl": "/imgs/images (3).jpg"
+    },
+    {
+      "id": 19,
+      "name": "Blue T-shirt",
+      "price": 5.99,
+      "imgUrl": "/imgs/images (4).jpg"
+    },
+    {
+        "id": 20,
+        "name": "Green T-Shirt",
+        "price": 5.99,
+        "imgUrl": "/imgs/images (6).jpg"
+      },
+      {
+        "id": 21,
+        "name": "White Shirt",
+        "price": 8.99,
+        "imgUrl": "/imgs/images (9).jpg"
+      },
+      {
+        "id": 22,
+        "name": "Blue Shirt",
+        "price": 8.99,
+        "imgUrl": "/imgs/images (8).jpg"
+      }
+  ]
+  
